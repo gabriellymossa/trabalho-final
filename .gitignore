@@ -1,0 +1,4 @@
+# Ignorar arquivos
+.env-template
+.env
+credentials
